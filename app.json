@@ -1,0 +1,25 @@
+{
+  "expo": {
+    "name": "Waste Connect",
+    "description": "No description",
+    "slug": "snack-f57f0d1c-16b1-423e-bb5c-6a0686c9b882",
+    "privacy": "unlisted",
+    "sdkVersion": "36.0.0",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "primaryColor": "#00A859",
+    "icon": "assets/logo/logo.png",
+    "loading": {
+      "icon": "assets/logo/logo.png",
+      "hideExponentText": false
+    },
+    "packagerOpts": {
+      "assetExts": ["ttf", "mp4", "otf", "xml"]
+    },
+    "android": {
+      "package": "com.de.wasteconnect",
+      "versionCode": 1,
+      "icon": "assets/logo/logo.png"
+    }
+  }
+}

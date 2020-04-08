@@ -1,0 +1,30 @@
+{
+  "name": "waste-connect",
+  "version": "0.0.0",
+  "description": "No description",
+  "author": null,
+  "private": true,
+  "main": "node_modules/expo/AppEntry.js",
+  "devDependencies": {
+    "babel-preset-expo": "^7.0.0"
+  },
+  "dependencies": {
+    "expo": "^36.0.0",
+    "react": "16.9.0",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-36.0.1.tar.gz",
+    "firebase": "7.9.1",
+    "native-base": "2.13.8",
+    "react-navigation": "^4.0.10",
+    "react-native-paper": "3.1.1",
+    "react-native-screens": "2.0.0-alpha.20",
+    "react-native-elements": "latest",
+    "react-navigation-stack": "latest",
+    "react-native-vector-icons": "latest",
+    "react-native-safe-area-context": "^0.6.0",
+    "react-native-radio-buttons-group": "1.0.7",
+    "react-native-simple-radio-button": "latest",
+    "@react-native-community/masked-view": "^0.1.1",
+    "react-native-keyboard-aware-scroll-view": "0.9.1",
+    "react-native-gesture-handler": "~1.5.0"
+  }
+}
