@@ -13,14 +13,14 @@ import * as firebase from 'firebase';
 import Dashboard from './components/Dashboard';
 
 var firebaseConfig = {
-  apiKey: 'AIzaSyDpVPdQ30QGN6Mnuo_082emzzlNidHWYr0',
-  authDomain: 'waste-connect-170c8.firebaseapp.com',
-  databaseURL: 'https://waste-connect-170c8.firebaseio.com',
-  projectId: 'waste-connect-170c8',
-  storageBucket: 'waste-connect-170c8.appspot.com',
-  messagingSenderId: '784247414346',
-  appId: '1:784247414346:web:24de139f606659a40810b3',
-  measurementId: 'G-J7386M4LJ3',
+  apiKey: YOUR_API_KEY_HERE,
+  authDomain: YOUR_AUTH_DOMAIN_HERE,
+  databaseURL: YOUR_DB_URL_HERE,
+  projectId: YOUR_P_ID_HERE,
+  storageBucket: YOUR_S_BUCKET_HERE,
+  messagingSenderId: YOUR_MS_ID_HERE,
+  appId: YOUR_APP_ID_HERE,
+  measurementId: YOUR_M_ID_HERE,
 };
 
 if (!firebase.apps.length) {
